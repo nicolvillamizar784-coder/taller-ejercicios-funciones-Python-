@@ -20,4 +20,5 @@ def imprimir_resultado(resultado_area):
 base = definir_base()
 altura =definir_altura()
 area = calcular_area(base, altura)
+
 resultado = imprimir_resultado(area)
